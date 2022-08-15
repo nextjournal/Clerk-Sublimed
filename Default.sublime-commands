@@ -1,0 +1,14 @@
+[
+  {
+    "caption": "Clerk Sublimed: Show",
+    "command": "clerk_sublimed_show"
+  },
+  {
+    "caption": "Preferences: Clerk Sublimed Key Bindings",
+    "command": "edit_settings",
+    "args": {
+      "base_file": "${packages}/Clerk Sublimed/Default (${platform}).sublime-keymap",
+      "user_file": "${packages}/User/Default (${platform}).sublime-keymap"
+    }
+  },
+]

@@ -1,0 +1,6 @@
+*._*
+__pycache__
+*.pyc
+.cpcache
+TODO.md
+.DS_Store

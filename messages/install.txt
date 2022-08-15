@@ -1,0 +1,12 @@
+Thanks for installing Clerk Sublimed.
+
+Important points to get you started:
+
+- Make sure to install the Clojure Sublimed package. Clerk Sublimed only works together with Clojure Sublimed.
+- Make sure to connect to your REPL via `Clojure Sublimed: Connect`.
+- Open a Clerk notebook and run `Clerk Sublimed: Show` to evaluate the notebook.
+- Configure key bindings using `Preferences: Clerk Sublimed Key Bindings`.
+
+Read more
+- about Clerk at https://github.com/nextjournal/clerk.
+- about Clojure Sublimed at https://github.com/tonsky/Clojure-Sublimed.
